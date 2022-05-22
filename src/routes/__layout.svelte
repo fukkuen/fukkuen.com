@@ -11,7 +11,7 @@
         <li><a href="/bio">Bio</a></li>
     </ul>
 </nav>
-<div class="max-w-screen-md mx-auto">
+<div class="max-w-screen-md mx-auto my-8">
     <slot></slot>
 </div>
 

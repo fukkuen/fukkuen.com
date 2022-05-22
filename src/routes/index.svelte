@@ -6,7 +6,7 @@
             headline_en: '',
             headline_zh: '有時候我會更有興趣看一位藝術家的日記和自傳多於他的作品',
             image: './3x3.jpeg',
-            year: '2020 May',
+            year: '2022 May',
             meta: 'Sound installation',
             to: '/works/3x3'
         },
@@ -40,16 +40,16 @@
             meta: 'Solo Exhibition',
             to: '/works/present-continous'
         },
-        {
-            title_en: 'WCH Assemblage',
-            title_zh: '黃竹坑聚疊',
-            headline_en: 'Physical phenomenon with emotion',
-            headline_zh: '能被體驗的物理現象',
-            image: './Assemblage.jpg',
-            year: '2015',
-            meta: 'Assemblage',
-            to: '/works/wch-assemblage'
-        },
+        // {
+        //     title_en: 'WCH Assemblage',
+        //     title_zh: '黃竹坑聚疊',
+        //     headline_en: 'Physical phenomenon with emotion',
+        //     headline_zh: '能被體驗的物理現象',
+        //     image: './Assemblage.jpg',
+        //     year: '2015',
+        //     meta: 'Assemblage',
+        //     to: '/works/wch-assemblage'
+        // },
         {
             title_en: 'Floating Projects Spatial Pressure Calibration',
             title_zh: '壓力測試',
