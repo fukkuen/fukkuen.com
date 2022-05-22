@@ -1,6 +1,16 @@
 <script>
     const list = [
         {
+            title_en: '',
+            title_zh: '3x3',
+            headline_en: '',
+            headline_zh: '有時候我會更有興趣看一位藝術家的日記和自傳多於他的作品',
+            image: './3x3.jpeg',
+            year: '2020 May',
+            meta: 'Sound installation',
+            to: '/works/3x3'
+        },
+        {
             title_en: 'Armenia Walk',
             title_zh: '當時的頻率',
             headline_en: '',
@@ -85,7 +95,7 @@
 
 <div class="py-4 px-4 text-slate-700">
     {#each list as item}
-        <div class="my-8 flex">
+        <a href={item.to} class="my-8 flex block">
             <img class="w-28 rounded mr-4" src={item.image} alt={item.title_zh}>
             <div>
                 <p class="text-xs">{item.year}</p>
@@ -93,6 +103,10 @@
                 <p class="text-lg mt-1 leading-tight">{item.title_zh}</p>
                 <p class="leading-tight">{item.title_en}</p>
             </div>
-        </div>
+        </a>
     {/each}
 </div>
+
+<svelte:head>
+    <title>fukkuen</title>
+</svelte:head>

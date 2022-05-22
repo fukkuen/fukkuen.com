@@ -2,7 +2,9 @@
     import "../styles/tailwind-output.css";
 </script>
 <nav>
-    <div class="text-center mt-4 mb-2 text-slate-500 text-sm">fukkuen.com</div>
+    <div class="text-center">
+        <a href="/" class="inline-block mt-4 mb-2 text-slate-500 text-sm">fukkuen.com</a>
+    </div>
     <ul class="flex items-center justify-center text-slate-700 text-sm">
         <li><a href="/works">Works</a></li>
         <li><a href="/blog">Blog</a></li>
