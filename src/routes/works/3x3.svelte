@@ -72,6 +72,11 @@
     </p>
 </div>
 
+<svelte:head>
+    <title>3x3 - fukkuen</title>
+    <meta name="description" content="16隻安逸的桌球，散落到粗糙的石春地面上不同的角落，漸漸產生了一段故事。">
+</svelte:head>
+
 <style>
     p, hr {
         @apply mb-4;
