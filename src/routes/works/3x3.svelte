@@ -1,5 +1,5 @@
 <div class="px-6 text-slate-700 max-w-screen-md mx-auto">
-    <img class="max-w-full mb-4 rounded max-w-sm mx-auto" src="/3x3.jpeg" alt="3x3">
+    <img class="w-full mb-4 rounded max-w-sm mx-auto" src="/3x3.jpeg" alt="3x3">
     <h1 class="text-2xl text-center">3x3</h1>
     <div class="text-center text-sm text-slate-500 mb-8">Sound installation/ Poem/ Field recording</div>
     <p>收到策展人張蓉邀請， 為2022年油街新開幕的展覽場地，以聲音的角度繪畫出一道風景， 這是項目《遊街六景》的其中一道「風景」。</p>
