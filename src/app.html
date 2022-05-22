@@ -5,6 +5,15 @@
 		<link rel="icon" href="%svelte.assets%/favicon.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		%svelte.head%
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-RGV0C6Q0B2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-RGV0C6Q0B2');
+		</script>
 	</head>
 	<body>
 		<div>%svelte.body%</div>
