@@ -2,7 +2,7 @@
     <img class="w-full mb-4 rounded max-w-sm mx-auto" src="/3x3.jpeg" alt="3x3">
     <h1 class="text-2xl text-center">3x3</h1>
     <div class="text-center text-sm text-slate-500 mb-8">Sound installation/ Poem/ Field recording</div>
-    <p>收到策展人張蓉邀請， 為2022年油街新開幕的展覽場地，以聲音的角度繪畫出一道風景， 這是項目《遊街六景》的其中一道「風景」。</p>
+    <p>收到策展人張蓉邀請， 為2022年油街新開幕的展覽場地，以聲音的角度繪畫出一道風景， 這是項目《油街六景》的其中一道「風景」。</p>
 
     <p>
         那是一個開放的戶外埸地，面積有半個足球場大的石春池。
@@ -68,7 +68,7 @@
     <p>
         展覽日期：29.5 ｜ 5.6 ｜ 12.6.2022（日 Sun）<br>
         展覽時間：10:00 – 17:00<br>
-        展覽地點: 油街實現 Oil street art space (北角油街12號)
+        展覽地點: 油街實現 Oil Street Art Space (Oi!) (北角油街12號)
     </p>
 </div>
 
